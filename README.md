@@ -34,23 +34,9 @@ foo@ubuntu:~$ Youssef.info()
 
 ## 📝 High-Impact Research & Publications
 
-### 🧠 1. The Illusion of "Local": A Four-Layer Forensic Measurement of Privacy Boundaries in Consumer Local-LLM Serving Stacks
 
-> **Status:** Under Review for Top-Tier Security Venues *(Targeting USENIX Security / IEEE TIFS)*
 
-**Core Vulnerabilities Discovered:**
-
-| ID | Vulnerability | Severity |
-|----|--------------|----------|
-| CWE-862 | **Cross-Tenant Session Hijacking** — Unauthenticated protocol-layer primitive in the llama.cpp API permitting deterministic retrieval of other tenants' KV-cache data ($200/200$ successful trials) | 🔴 Critical |
-| MEM-001 | **Runtime Memory Leakage** — Isolated 11–13 persistent cleartext prompt copies remaining in the process heap, structurally resistant to object-level zeroisation due to glibc per-thread arena retention | 🔴 Critical |
-| LOG-001 | **Wrapper Cleartext Logging** — Consumer wrapper daemons (LM Studio) write all user interactions and hidden reasoning traces directly to unencrypted disk logs by default | 🟠 High |
-
-**Methodology:** Designed a strict **4-layer forensic framework** (File-format → Runtime memory → Interface wrapper → Network protocol) audited at $n \ge 50$ trials per condition across multiple model architectures.
-
----
-
-### 📊 2. ACTS: A Multi-Tier Benchmark for Evaluating LLM Cipher Identification Accuracy
+### 📊  ACTS: A Multi-Tier Benchmark for Evaluating LLM Cipher Identification Accuracy
 
 > **Status:** Under Review at *Expert Systems with Applications* (ESWA, Impact Factor: **9.4**)
 
