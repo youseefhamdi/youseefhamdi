@@ -142,9 +142,9 @@ foo@ubuntu:~$ Youssef.info()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xZodiac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youseefhamdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xZodiac&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6B6B)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youseefhamdi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6B6B)
 
 </div>
 
@@ -159,6 +159,6 @@ foo@ubuntu:~$ Youssef.info()
 ─────────────────────────────────────────────────────────────────────
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xZodiac&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=youseefhamdi&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
