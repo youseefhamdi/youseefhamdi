@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 # ⚡ Youssef Hamdi (0xZodiac)
@@ -142,11 +140,9 @@ foo@ubuntu:~$ Youssef.info()
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youseefhamdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&count_private=true&include_all_commits=true)](https://github.com/youseefhamdi)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=youseefhamdi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6B6B&currStreakLabel=00ADD8)](https://github.com/youseefhamdi)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youseefhamdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADD8&langs_count=6)](https://github.com/youseefhamdi)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youseefhamdi&theme=tokyo-night&bg_color=0d1117&color=00ADD8&line=00ADD8&point=FF6B6B&area=true&hide_border=true)](https://github.com/youseefhamdi)
 
 </div>
 
