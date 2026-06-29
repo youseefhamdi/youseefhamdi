@@ -8,7 +8,7 @@
 
 **`AI Security`** • **`Memory Forensics`** • **`Red Teaming`** • **`Go/Python Engineering`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssefhamdi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youseefhamdi)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:youssefhamdi329@gmail.com)
 
 </div>
